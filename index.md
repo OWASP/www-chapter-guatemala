@@ -2,53 +2,78 @@
 
 layout: col-sidebar
 title: OWASP Guatemala
-tags: example-tag
+tags: infosec,Guatemala,owasp
 level: 0
-
 region: Latin America
 
-auto-migrated: 1
+# Bienvenidos al Capitulo OWASP de Guatemala
+## Objetivos
 
----
+El objetivo del capitulo OWASP de Guatemala es concientizar acerca de las vulnerabilidades que pueden afectar a las aplicaciones y sobre como remediarlas o evitarlas. 
+
+## Reuniones
+
+Se proponen reuniones trimestrales y grupos de estudio a formarse
+relacionados en temas de Seguridad Informatica. Se nombran alguno de
+ellos:
+
+  - Análisis de las nuevas tecnologías de la información y las
+    comunicaciones.
+  - Análisis de productos (Software & Appliances).
+  - Investigación de fallas y vulnerabilidades.
+  - Desarrollo de programas y técnicas de exploit relacionadas.
+  - Documentación de soluciones de seguridad.
+  - Desarrollo de herramientas de seguridad.
+  - Demostraciones. Debates y desarrollo investigativo.
 
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
-{front matter for this file}
+## Colabora
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+Hay muchas formas de colaborar y contribuir con el capitulo OWASP
+Guatemala.
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+  - Participando en cualquiera de los proyectos actualmente activos
+    (documentación y herramientas).
+  - Proponiendo nuevos proyectos.
+  - Participando y aportando ideas en nuestra lista de correo.
+  - Asistiendo a las conferencias y reuniones.
+  - Promoviendo y dando soporte al proyecto OWASP en general.
+  - Coffee Breaks y rifas en nuestros eventos.
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+## Social media
+* Enterate de nuestras reuniones y eventos en: [Facebook Page](https://www.facebook.com/owaspgt/) 
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+## Hablar en Eventos de OWASP Guatemala
+Siempre estamos buscando Speakers, si tienes alguna charla que puedes dar y quieres hacerlo en nuestros eventos por favor comunicate con los líderes del capitulo. 
 
-```
-{info.md}
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+## Meeting Sponsors
+Esta es la lista de algunas de las organizaciones que apoyan el capitulo OWASP Guatemala:
 
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+<table cellpadding="10" cellspacing="0" border="0">
+<tr>
+<td>
+<img src="assets/images/6.png" alt="6"/>
+</td>
+<td>
+<img src="assets/images/5.png" alt="5"/>
+</td>
+<td>
+<img src="assets/images/4.png" alt="4"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="assets/images/3.png" alt="3"/>
+</td>
+<td>
+<img src="assets/images/2.png" alt="2"/>
+</td>
+<td>
+<img src="assets/images/1.png" alt="1"/>
+</td>
+</tr>
+</table>
