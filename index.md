@@ -2,14 +2,15 @@
 
 layout: col-sidebar
 title: OWASP Guatemala
-tags: Infosec, Guatemala,OWASP
-level: 0
-region: Latin America
+tags:  Guatemala
+region: South America
+
+---
+
 
 # Bienvenidos al Capitulo OWASP de Guatemala
-## Objetivos
 
-El objetivo del capitulo OWASP de Guatemala es concientizar acerca de las vulnerabilidades que pueden afectar a las aplicaciones y sobre como remediarlas o evitarlas. 
+El objetivo del capitulo OWASP de Guatemala es concientizar acerca de las vulnerabilidades que pueden afectar a las aplicaciones y sobre como remediarlas o evitarlas. Buscamos difundir temas de Seguridad en Aplicaciones Web, concientizar y sensibilizar tanto a organizaciones, empresas, Universidades, estudiantes, desarrolladores y arquitectos. Esta difusión se realiza mediante eventos de capacitación y de charlas.
 
 ## Reuniones
 
@@ -51,29 +52,5 @@ Siempre estamos buscando Speakers, si tienes alguna charla que puedes dar y quie
 
 
 ## Meeting Sponsors
-Esta es la lista de algunas de las organizaciones que apoyan el capitulo OWASP Guatemala:
+Esta es la lista de algunas de las organizaciones que apoyan el capitulo OWASP Guatemala
 
-<table cellpadding="10" cellspacing="0" border="0">
-<tr>
-<td>
-<img src="assets/images/6.png" alt="6"/>
-</td>
-<td>
-<img src="assets/images/5.png" alt="5"/>
-</td>
-<td>
-<img src="assets/images/4.png" alt="4"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="assets/images/3.png" alt="3"/>
-</td>
-<td>
-<img src="assets/images/2.png" alt="2"/>
-</td>
-<td>
-<img src="assets/images/1.png" alt="1"/>
-</td>
-</tr>
-</table>
