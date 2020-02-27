@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Guatemala
-tags: infosec,Guatemala,owasp
+tags: Infosec, Guatemala,OWASP
 level: 0
 region: Latin America
 
