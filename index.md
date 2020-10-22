@@ -6,7 +6,7 @@ tags:  Guatemala
 region: South America
 
 ---
-[[File:logo_og.png|frameless|caption]]
+[[File:logo_og.png|frameless]]
 
 # Bienvenidos al Capitulo OWASP de Guatemala
 
