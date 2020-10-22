@@ -9,16 +9,10 @@ region: Latin America
 
 
 ---
-![OWASP-Guatemala-2.png](OWASP-Guatemala-2.png
-"OWASP-Guatemala-2.png")
-
-
-
-[Fan Page del Capitulo](https://www.facebook.com/owaspgt/)
-
-__NOTOC__
 
 # Objetivos
+
+
 
 ## Reuniones
 
@@ -63,9 +57,8 @@ Se llevo a cabo en E-Garage en el Tec Zona 4 con más de 40 asistentes.
 ## **OWASP Latam Tour - Guatemala 2014**
 
 **Martes 29 de Abril** *(Talleres y Conferencias)*
-|- | valign="center" bgcolor="\#CCCCEE" align="center" colspan="2" |
-**Descripcion y Objetivo** |- | valign="left" height="80"
-bgcolor="\#EEEEEE" align="left" colspan="2" |
+
+**Descripcion y Objetivo** 
 
 Aparte del OWASP Top 10, la mayoría de los [Proyectos
 OWASP](:Category:OWASP_Project "wikilink") no son ampliamente utilizados
@@ -75,153 +68,8 @@ disponible, sino mas bien por desconocer donde se ubicaran en un
 Ecosistema de Seguridad de Aplicaciones empresarial. Esta serie de
 talleres y conferencias tienen como objetivo cambiar esta situación
 proporcionando una explicación sobre los proyectos OWASP mas maduros y
-listos para ser utilizados en el ambito empresarial. |}
-{|
-style="vertical-align:top;width:90%;background-color:\#white;padding:10px;border:1px
-solid silver;" align="center" cellspacing="5" |- | colspan="2"
-align="center" style="background:\#4B0082;" |
-<span style="color:#ffffff"> **TALLERES (Martes 29 de Abril)**</span> |-
-| colspan="0" style="width:20%" valign="middle" bgcolor="\#CCCCEE"
-align="center" | **Fecha** | colspan="0" style="width:80%"
-valign="middle" bgcolor="\#CCCCEE" align="center" | **Lugar** |- |
-valign="middle" bgcolor="\#EEEEEE" align="center" | ''' Martes 29 de
-Abril *' | valign="middle" bgcolor="\#EEEEEE" align="left" | Universidad
-Galileo - 7a. Avenida, calle Dr. Eduardo Suger Cofiño, Zona 10. Ciudad
-de Guatemala.
-|- | colspan="2" align="center" style="background:\#CCCCEE;" | **Precio
-y Registro** Publico en General Q150
-Estudiantes con Carnet Q75
-Cupo Limitado
-|- | colspan="2" align="center" style="background:\#EEEEEE;" | Durante
-todo el OWASP LatamTour se estarán realizando talleres de capacitación
-dictados por destacados profesionales en la materia.
-*Seguridad en Aplicaciones Web
-'' *Estandares Internacionales
-* *Analisis de Codigo
-*
+listos para ser utilizados en el ambito empresarial.
 
-Para consultar sobre el detalle de los talleres, horarios, costos y
-cupos disponibles en su ciudad revise el siguiente Link :
-**[TALLERES - CLICK
-AQUÍ](https://www.owasp.org/index.php/LatamTour2014#Training)**
-<https://www.owasp.org/index.php/LatamTour2014_Training>
-. |}
-
-<table>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;"><p><span style="color:#ffffff"> <strong>CONFERENCIA (Martes 29 de Abril)</strong></span></p></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><p><strong>Fecha</strong></p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><p>Martes 29 de Abril</p></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><p><strong>Precio y Registro</strong></p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><p>El ingreso al evento es <strong>Limitado</strong> - El proceso de registro lo podrá ubicar en el siguiente link<br />
-<strong>Link de Registro al OWASP LATAM TOUR 2014</strong>: <a href="https://www.regonline.com/Register/Checkin.aspx?EventID=1492458">YA DISPONIBLE</a><strong><br />
-</strong></p></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><p><strong>Promociones</strong></p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><p>OFERTA ESPECIAL - Durante todo el OWASP Latam Tour el costo de la membresía anual es de solamente U$D 20. Utilice el código de descuento "LATAM" durante el proceso de registro electrónico como miembro individual en el enlace disponible a continuación.<br />
-<a href="http://myowasp.force.com/memberappregion">Hágase MIEMBRO DE OWASP AQUÍ</a><br />
-<strong>Si usted aun no es miembro OWASP, por favor considere unirse a nuestra organización.</strong></p></td>
-</tr>
-</tbody>
-</table>
-
-
-{|
-style="vertical-align:top;width:90%;background-color:\#white;padding:10px;border:1px
-solid silver;" align="center" cellspacing="5" |- | colspan="6"
-style="width:90%" valign="middle" height="40" bgcolor="\#CCCCEE"
-align="center" | **DETALLES DE LA JORNADA** |- | colspan="0"
-style="width:10%" valign="middle" height="30" bgcolor="\#CCCCEE"
-align="center" | **Horario** | colspan="0" style="width:27%"
-valign="middle" height="30" bgcolor="\#CCCCEE" align="center" |
-**Modulo** | colspan="0" style="width:23%" valign="middle" height="30"
-bgcolor="\#CCCCEE" align="center" | **Ponente** | colspan="0"
-style="width:40%" valign="middle" height="30" bgcolor="\#CCCCEE"
-align="center" | **Detalles** |- | colspan="0" style="width:10%"
-valign="middle" height="30" bgcolor="\#CCEEEE" align="center" | 09:00 -
-09:30 | colspan="0" style="width:27%" valign="middle" height="30"
-bgcolor="\#CCEEEE" align="center" | Acreditación | colspan="0"
-style="width:23%" valign="middle" height="30" bgcolor="\#CCEEEE"
-align="center" | | colspan="0" style="width:40%" valign="middle"
-height="30" bgcolor="\#CCEEEE" align="center" | |- | colspan="0"
-style="width:10%" valign="middle" height="30" bgcolor="\#EEEEEE"
-align="center" | 09:30 - 10:15 | colspan="0" style="width:27%"
-valign="middle" height="30" bgcolor="\#EEEEEE" align="center" | ¿Qué es
-Big Data? | colspan="0" style="width:23%" valign="middle" height="30"
-bgcolor="\#EEEEEE" align="center" | Pablo Barrera | colspan="0"
-style="width:40%" valign="middle" height="30" bgcolor="\#EEEEEE"
-align="center" | |- | colspan="0" style="width:10%" valign="middle"
-height="30" bgcolor="\#CCCCEE" align="center" | 10:15 - 10:45 |
-colspan="0" style="width:27%" valign="middle" height="30"
-bgcolor="\#CCCCEE" align="center" | Coffee Break | colspan="0"
-style="width:23%" valign="middle" height="30" bgcolor="\#CCCCEE"
-align="center" | | colspan="0" style="width:40%" valign="middle"
-height="30" bgcolor="\#CCCCEE" align="center" | |- | colspan="0"
-style="width:10%" valign="middle" height="30" bgcolor="\#EEEEEE"
-align="center" | 10:45 - 11:30 | colspan="0" style="width:27%"
-valign="middle" height="30" bgcolor="\#EEEEEE" align="center" | ¿Es mi
-sitio web vulnerable? | colspan="0" style="width:23%" valign="middle"
-height="30" bgcolor="\#EEEEEE" align="center" | Luis Cordón |
-colspan="0" style="width:40%" valign="middle" height="30"
-bgcolor="\#EEEEEE" align="center" | |- | colspan="0" style="width:10%"
-valign="middle" height="30" bgcolor="\#EEEEEE" align="center" | 11:30 -
-12:15 | colspan="0" style="width:27%" valign="middle" height="30"
-bgcolor="\#EEEEEE" align="center" | Utilizando Owasp Tools - Zap Proxy y
-DirBuster | colspan="0" style="width:23%" valign="middle" height="30"
-bgcolor="\#EEEEEE" align="center" | Camilo Fernández | colspan="0"
-style="width:40%" valign="middle" height="30" bgcolor="\#EEEEEE"
-align="center" | |- | colspan="0" style="width:10%" valign="middle"
-height="30" bgcolor="\#EEEEEE" align="center" | 12:15 - 13:00 |
-colspan="0" style="width:27%" valign="middle" height="30"
-bgcolor="\#EEEEEE" align="center" | ISO 27001:2013 | colspan="0"
-style="width:23%" valign="middle" height="30" bgcolor="\#EEEEEE"
-align="center" | Mario Soto | colspan="0" style="width:40%"
-valign="middle" height="30" bgcolor="\#EEEEEE" align="center" | |- |- |
-colspan="0" style="width:10%" valign="middle" height="30"
-bgcolor="\#CCCCEE" align="center" | 13:00 - 14:00 | colspan="0"
-style="width:27%" valign="middle" height="30" bgcolor="\#CCCCEE"
-align="center" | Lunch | colspan="0" style="width:23%" valign="middle"
-height="30" bgcolor="\#CCCCEE" align="center" | | colspan="0"
-style="width:40%" valign="middle" height="30" bgcolor="\#CCCCEE"
-align="center" | |- |- | colspan="0" style="width:10%" valign="middle"
-height="30" bgcolor="\#EEEEEE" align="center" | 14:00 - 15:00 |
-colspan="0" style="width:27%" valign="middle" height="30"
-bgcolor="\#EEEEEE" align="center" | Taller | colspan="0"
-style="width:23%" valign="middle" height="30" bgcolor="\#EEEEEE"
-align="center" | Luis Cordón | colspan="0" style="width:40%"
-valign="middle" height="30" bgcolor="\#EEEEEE" align="center" | |- |- |
-colspan="0" style="width:10%" valign="middle" height="30"
-bgcolor="\#CCCCEE" align="center" | 15:00 - 15:30 | colspan="0"
-style="width:27%" valign="middle" height="30" bgcolor="\#CCCCEE"
-align="center" | Coffee Break | colspan="0" style="width:23%"
-valign="middle" height="30" bgcolor="\#CCCCEE" align="center" | |
-colspan="0" style="width:40%" valign="middle" height="30"
-bgcolor="\#CCCCEE" align="center" | |- |- | colspan="0"
-style="width:10%" valign="middle" height="30" bgcolor="\#EEEEEE"
-align="center" | 15:30 - 17:15 | colspan="0" style="width:27%"
-valign="middle" height="30" bgcolor="\#EEEEEE" align="center" | Concurso
-Capture The Flag (CTF) | colspan="0" style="width:23%" valign="middle"
-height="30" bgcolor="\#EEEEEE" align="center" | | colspan="0"
-style="width:40%" valign="middle" height="30" bgcolor="\#EEEEEE"
-align="center" | |- |- | colspan="0" style="width:10%" valign="middle"
-height="30" bgcolor="\#CCEEEE" align="center" | 17:30 - 18:00 |
-colspan="0" style="width:27%" valign="middle" height="30"
-bgcolor="\#CCEEEE" align="center" | Premiación y Cierre del Evento |
-colspan="0" style="width:23%" valign="middle" height="30"
-bgcolor="\#CCEEEE" align="center" | | colspan="0" style="width:40%"
-valign="middle" height="30" bgcolor="\#CCEEEE" align="center" | |- |}
 
 # LATAM TOUR 2015
 
