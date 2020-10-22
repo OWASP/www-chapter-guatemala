@@ -291,10 +291,6 @@ INFORMÁTICA Y CIBERSEGURIDAD \!\!\!\!</b>
 4A Calle 7a. Avenida, calle Dr. Eduardo Suger Cofiño,
 Ciudad de Guatemala 01010
 
-[**REGISTRATION IS NOW
-OPEN**](https://www.regonline.com/owasplatamtour15guatemala)
-
-
 
 # LATAM TOUR 2016
 
@@ -388,7 +384,7 @@ Evento Completamente Gratuito, a profesionales y estudiantes
 [Registrarse
 Aquí](https://www.eventbrite.com/e/owasp-latam-tour-guatemala-2018-tickets-45008459514)
 
-### **UBICACION**
+### UBICACION
 
 [Intecap](http://www.intecap.edu.gt/)
 Auditorio Principal
@@ -413,11 +409,6 @@ ellos:
 
 
 
-# Próximos Eventos
-
-## OWASP LATAM Tour 2019
-
-<headertabs />
 
 [Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
 [Category:Latin America](Category:Latin_America "wikilink")
