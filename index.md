@@ -2,9 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Guatemala
+meetup: owasp-guatamala-meetup-group 
 tags:  Guatemala
 region: South America
-meetup-group: owasp-guatemala-meetup-group
+
 ---
 
 <img src="assets/images/logo_og.png" alt="logo_og.png"/>
@@ -54,6 +55,5 @@ Siempre estamos buscando Speakers, si tienes alguna charla que puedes dar y quie
 ## Meeting Sponsors
 Esta es la lista de algunas de las organizaciones que apoyan el capitulo OWASP Guatemala
 
-### Check our Upcoming Meetup Events:
-https://www.meetup.com/owasp-guatemala-meetup-group
+### Check our Upcoming [Meetup Events](https://www.meetup.com/owasp-guatemala-meetup-group)
 
