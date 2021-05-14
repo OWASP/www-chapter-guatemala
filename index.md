@@ -28,8 +28,6 @@ ellos:
   - Desarrollo de herramientas de seguridad.
   - Demostraciones. Debates y desarrollo investigativo.
 
-
-
 ## Colabora
 
 Hay muchas formas de colaborar y contribuir con el capitulo OWASP
@@ -43,12 +41,11 @@ Guatemala.
   - Promoviendo y dando soporte al proyecto OWASP en general.
   - Coffee Breaks y rifas en nuestros eventos.
 
-
 ## Social media
-* Enterate de nuestras reuniones y eventos en: [Facebook Page](https://www.facebook.com/owaspgt/) 
-* Meetup Group: [Meetup] (https://www.meetup.com/owasp-guatemala-meetup-group/) 
+* [Facebook Page](https://www.facebook.com/owaspgt/) 
+* [Meetup](https://www.meetup.com/owasp-guatemala-meetup-group/) 
 
-{% include chapter_events.html group=page.meetup-group %}
+ {% include chapter_events.html group=page.meetup-group %}
 
 ## Hablar en Eventos de OWASP Guatemala
 Siempre estamos buscando Speakers, si tienes alguna charla que puedes dar y quieres hacerlo en nuestros eventos por favor comunicate con los líderes del capitulo. 
