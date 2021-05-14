@@ -46,7 +46,6 @@ Guatemala.
 * [Facebook Page](https://www.facebook.com/owaspgt/) 
 * [Meetup](https://www.meetup.com/owasp-guatemala-meetup-group/) 
 
- {% include chapter_events.html group=page.meetup-group %}
 
 ## Hablar en Eventos de OWASP Guatemala
 Siempre estamos buscando Speakers, si tienes alguna charla que puedes dar y quieres hacerlo en nuestros eventos por favor comunicate con los líderes del capitulo. 
