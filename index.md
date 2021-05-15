@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Guatemala
 tags:  Guatemala
 region: South America
-
+meetup-group: owasp-guatemala-meetup-group
 ---
 
 <img src="assets/images/logo_og.png" alt="logo_og.png"/>
@@ -28,7 +28,8 @@ ellos:
   - Desarrollo de herramientas de seguridad.
   - Demostraciones. Debates y desarrollo investigativo.
 
-
+## Proximos eventos - Meetup
+{% include chapter_events.html group=page.meetup-group %}
 
 ## Colabora
 

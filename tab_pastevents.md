@@ -14,16 +14,14 @@ tags: Guatemala
 ## Eventos 2021
 
 ### Date/Time: Abril 27, 2021 - 19:00
-### Location: https://www.facebook.com/owaspgt/videos/6474172662608536 (Live Stream)
-### Slides: https://drive.google.com/file/d/1cJS0lExWr2JujyE7f4nbJ9yGz6cUMLyw/view?usp=sharing
+### Location: [Video]( https://www.facebook.com/owaspgt/videos/6474172662608536 ) -- [slides]( https://drive.google.com/file/d/1cJS0lExWr2JujyE7f4nbJ9yGz6cUMLyw/view?usp=sharing )
 ### Title: Mobile App Security With MobSF
 ### Presentation summary: 
 
 La charla de Mobile App Security With MobSF, muestra cómo se pude realizar un Análisis Estático y Dinámico, con ello los participantes aprenderán como poder testear aplicaciones móviles.
 
 ### Date/Time: Abril 23, 2021
-### Location: https://youtu.be/CnVFQ73_R7U?t=565
-### Slides: https://drive.google.com/file/d/1YM8JJOHVZd9hHVZ60JN_y3ySwSf7963p/view?usp=sharing
+### Location: [Video en Youtube](https://youtu.be/CnVFQ73_R7U?t=565) -- [Slides]( https://drive.google.com/file/d/1YM8JJOHVZd9hHVZ60JN_y3ySwSf7963p/view?usp=sharing )
 ### Title: OWASP ENFOCADA EN VULNERABILIDADES DE IOT
 ### Presentation summary: 
 
