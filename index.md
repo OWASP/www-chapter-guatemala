@@ -2,6 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Guatemala
+meetup: owasp-guatamala-meetup-group 
 tags:  Guatemala
 region: South America
 meetup-group: owasp-guatemala-meetup-group
@@ -28,8 +29,11 @@ ellos:
   - Desarrollo de herramientas de seguridad.
   - Demostraciones. Debates y desarrollo investigativo.
 
+
 ## Proximos eventos - Meetup
 {% include chapter_events.html group=page.meetup-group %}
+
+=======
 
 ## Colabora
 
@@ -44,9 +48,9 @@ Guatemala.
   - Promoviendo y dando soporte al proyecto OWASP en general.
   - Coffee Breaks y rifas en nuestros eventos.
 
-
 ## Social media
-* Enterate de nuestras reuniones y eventos en: [Facebook Page](https://www.facebook.com/owaspgt/) 
+* [Facebook Page](https://www.facebook.com/owaspgt/) 
+* [Meetup](https://www.meetup.com/owasp-guatemala-meetup-group/) 
 
 
 ## Hablar en Eventos de OWASP Guatemala
@@ -55,4 +59,6 @@ Siempre estamos buscando Speakers, si tienes alguna charla que puedes dar y quie
 
 ## Meeting Sponsors
 Esta es la lista de algunas de las organizaciones que apoyan el capitulo OWASP Guatemala
+
+### Check our Upcoming [Meetup Events](https://www.meetup.com/owasp-guatemala-meetup-group)
 
