@@ -33,7 +33,6 @@ ellos:
 ## Proximos eventos - Meetup
 {% include chapter_events.html group=page.meetup-group %}
 
-=======
 
 ## Colabora
 
