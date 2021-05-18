@@ -30,10 +30,6 @@ ellos:
   - Demostraciones. Debates y desarrollo investigativo.
 
 
-## Proximos eventos - Meetup
-{% include chapter_events.html group=page.meetup-group %}
-
-
 ## Colabora
 
 Hay muchas formas de colaborar y contribuir con el capitulo OWASP
@@ -60,4 +56,8 @@ Siempre estamos buscando Speakers, si tienes alguna charla que puedes dar y quie
 Esta es la lista de algunas de las organizaciones que apoyan el capitulo OWASP Guatemala
 
 ### Check our Upcoming [Meetup Events](https://www.meetup.com/owasp-guatemala-meetup-group)
+
+## Proximos eventos - Meetup
+
+{% include chapter_events.html group=page.meetup-group %}
 
