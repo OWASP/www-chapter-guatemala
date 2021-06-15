@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Guatemala
 meetup: owasp-guatamala-meetup-group 
 tags:  Guatemala
-region: South America
+region: Central America
 meetup-group: owasp-guatemala-meetup-group
 ---
 
