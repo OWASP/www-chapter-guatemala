@@ -9,6 +9,7 @@ meetup-group: owasp-guatemala-meetup-group
 ---
 
 <img src="assets/images/logo_og.png" alt="logo_og.png"/>
+<img src="assets/images/emailfooter.png" alt="emailfooter.png"/>
 
 # Bienvenidos al Capitulo OWASP de Guatemala
 
