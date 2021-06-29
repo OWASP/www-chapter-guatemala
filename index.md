@@ -8,7 +8,7 @@ region: Central America
 meetup-group: owasp-guatemala-meetup-group
 ---
 
-<img src="/emailfooter.png" alt="emailfooter.png"/>
+<img src="assets/images/emailfooter.png" alt="emailfooter.png"/>
 
 <img src="assets/images/logo_og.png" alt="logo_og.png"/>
 
