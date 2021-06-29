@@ -8,8 +8,10 @@ region: Central America
 meetup-group: owasp-guatemala-meetup-group
 ---
 
-<img src="assets/images/logo_og.png" alt="logo_og.png"/>
 <img src="/emailfooter.png" alt="emailfooter.png"/>
+
+<img src="assets/images/logo_og.png" alt="logo_og.png"/>
+
 
 # Bienvenidos al Capitulo OWASP de Guatemala
 
