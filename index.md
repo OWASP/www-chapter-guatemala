@@ -5,6 +5,7 @@ title: OWASP Guatemala
 meetup: owasp-guatamala-meetup-group 
 tags:  Guatemala
 region: Central America
+country: Guatemala
 meetup-group: owasp-guatemala-meetup-group
 ---
 
